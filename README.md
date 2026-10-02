@@ -22,8 +22,11 @@
 I'm just a girl studying programming who wants to create things that look good and work even better. I move between **web design and development** and **game creation**, and I'm drawn to projects that make me think hard (yeah, the ones that give me a little headache 😅).
 
 🔭 **Currently learning:** Python, JavaScript and C#
+
 🌱 **Interested in:** web design, game development and solving tricky problems
+
 📚 **Outside of code:** reading and sleeping (yes, in that order of priority)
+
 🦦 **Fun fact:** I think it's pretty obvious I love otters
 <br clear="right"/>
 
