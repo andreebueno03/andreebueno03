@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=200&section=header&text=Hey%20there,%20I%27m%20Andree&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=200&section=header&text=Hey%20there,%20I%27m%20Andree&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descSize=22&descAlignY=62" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Learning+Python%2C+JavaScript+and+C%23;I+love+web+design+and+game+development;Turning+challenges+into+projects+%F0%9F%A6%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=Learning+Python%2C+JavaScript+and+C%23;I+love+web+design+and+game+development;Turning+challenges+into+projects+%F0%9F%A6%A6" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,11 @@
 
 ## 👩‍💻 About me
 
-<img align="right" src="avatar.png" width="250" alt="Andreeby"/>
+<div align="center">
+  <img src="avatar.png" width="180" alt="Andreeby"/>
+</div>
+
+<br/>
 
 I'm just a girl studying programming who wants to create things that look good and work even better. I move between **web design and development** and **game creation**, and I'm drawn to projects that make me think hard (yeah, the ones that give me a little headache 😅).
 
@@ -25,8 +29,6 @@ I'm just a girl studying programming who wants to create things that look good a
 - 🌱 **Interested in:** web design, game development and solving tricky problems
 - 📚 **Outside of code:** reading and sleeping (yes, in that order of priority)
 - 🦦 **Fun fact:** I think it's pretty obvious I love otters
-
-<br clear="right"/>
 
 ---
 
@@ -43,11 +45,11 @@ I'm just a girl studying programming who wants to create things that look good a
 
 ## 🚀 Featured projects
 
-| Project | Description | Tech |
-|:--|:--|:--|
-| 🎮 **[Cutie's Finder](https://github.com/andreebueno03/tu-repo)** | A little game where you steal the adorable things you come across at your job | `C#` `Unity` |
-| 🌐 **[MorphoMobile](https://andreeby.itch.io/morphomobile)** | An Anatomy and Pathology simulator in spanish designed to help medical students | `HTML` `CSS` `JavaScript` |
-| 🐍 **[Inventory Control](https://github.com/andreebueno03/tu-repo)** | Inventory control system for the healthcare field | `Python` |
+| Project | Description |
+|:--|:--|
+| 🎮 **[Cutie's Finder](https://github.com/andreebueno03/tu-repo)** | A little game where you steal the adorable things you come across at your job<br/>`C#` `Unity` |
+| 🌐 **[MorphoMobile](https://andreeby.itch.io/morphomobile)** | An Anatomy and Pathology simulator in Spanish designed to help medical students<br/>`HTML` `CSS` `JavaScript` |
+| 🐍 **[Inventory Control](https://github.com/andreebueno03/tu-repo)** | Inventory control system for the healthcare field<br/>`Python` |
 
 
 ---
@@ -56,10 +58,10 @@ I'm just a girl studying programming who wants to create things that look good a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andreebueno03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=00f5d4&text_color=c9d1d9&ring_color=c77dff&count_private=true" height="165" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreebueno03&layout=compact&hide_border=true&bg_color=0d1117&title_color=c77dff&text_color=c9d1d9&langs_count=6" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=andreebueno03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=00f5d4&text_color=c9d1d9&ring_color=c77dff&count_private=true" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreebueno03&layout=compact&hide_border=true&bg_color=0d1117&title_color=c77dff&text_color=c9d1d9&langs_count=6" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=andreebueno03&hide_border=true&background=0d1117&ring=c77dff&fire=ff9ee5&currStreakLabel=00f5d4&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" height="165" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=andreebueno03&hide_border=true&background=0d1117&ring=c77dff&fire=ff9ee5&currStreakLabel=00f5d4&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" alt="Streak"/>
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreebueno03&bg_color=0d1117&color=c77dff&line=00f5d4&point=ff9ee5&area=true&hide_border=true&area_color=c77dff" width="100%" alt="Contribution graph"/> -->
 
