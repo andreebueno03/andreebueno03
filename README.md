@@ -19,7 +19,7 @@
 
 <img align="right" src="avatar.png" width="150" alt="Andreeby"/>
 
-Soy estudiante de programación con ganas de crear cosas que se vean bien y funcionen mejor. Me muevo entre el **desarrollo web** y la **creación de videojuegos**, y me atraen los proyectos que me obligan a pensar de verdad (sí, esos que dan un poquito de jaqueca 😅).
+Soy una chica que estudia programación con ganas de crear cosas que se vean bien y funcionen mejor. Me muevo entre el **diseño y desarrollo web** y la **creación de videojuegos**, y me atraen los proyectos que me obligan a pensar de verdad (sí, esos que dan un poquito de jaqueca 😅).
 
 - 🔭 **Aprendiendo ahora:** Python, JavaScript y C#
 - 🌱 **Me interesa:** diseño web, desarrollo de videojuegos y resolver problemas complicados
@@ -34,11 +34,10 @@ Soy estudiante de programación con ganas de crear cosas que se vean bien y func
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,cs,html,css,git,github,vscode&theme=dark" alt="Tecnologías"/>
+<img src="https://skillicons.dev/icons?i=python,js,cs,html,css,github,vscode&theme=dark" alt="Tecnologías"/>
 
 </div>
 
-> 💡 Añade o quita iconos cambiando la lista en la URL (`i=python,js,...`). Catálogo completo en [skillicons.dev](https://skillicons.dev).
 
 ---
 
