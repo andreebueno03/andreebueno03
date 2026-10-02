@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,100:00f5d4&height=190&section=header&text=Andree&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Desarrolladora%20en%20formación%20%C2%B7%20Web%20%26%20Videojuegos&descSize=17&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=200&section=header&text=Hola,%20soy%20Andree&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Bienvenid@%20a%20mi%20rincón%20del%20internet%20✨&descSize=18&descAlignY=60" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Aprendiendo+Python%2C+JavaScript+y+C%23;Me+gusta+el+dise%C3%B1o+web+y+crear+videojuegos;Convierto+retos+en+proyectos+%F0%9F%A6%A6" alt="Typing SVG" />
@@ -71,7 +71,6 @@ Soy estudiante de programación con ganas de crear cosas que se vean bien y func
 
 ## 🎯 Objetivos de este año
 
-- [x] Aprobar mi tesis universitaria
 - [ ] Terminar mi primer videojuego completo
 - [ ] Publicar mi portafolio web
 - [ ] Contribuir a un proyecto open source
@@ -92,6 +91,6 @@ Soy estudiante de programación con ganas de crear cosas que se vean bien y func
 
 <sub>🦦 *Hecho con cariño (y con ayuda de las nutrias)* 🦦</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,100:00f5d4&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=100&section=footer" width="100%"/>
 
 </div>
