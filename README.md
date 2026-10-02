@@ -46,11 +46,10 @@ Soy estudiante de programación con ganas de crear cosas que se vean bien y func
 
 | Proyecto | Descripción | Tecnologías |
 |:--|:--|:--|
-| 🎮 **[Nombre del proyecto](https://github.com/andreebueno03/tu-repo)** | Una frase sobre qué hace y por qué es interesante | `C#` `Unity` |
-| 🌐 **[Nombre del proyecto](https://github.com/andreebueno03/tu-repo)** | Una frase sobre qué hace y por qué es interesante | `HTML` `CSS` `JavaScript` |
-| 🐍 **[Nombre del proyecto](https://github.com/andreebueno03/tu-repo)** | Una frase sobre qué hace y por qué es interesante | `Python` |
+| 🎮 **[Cutie's Finder](https://github.com/andreebueno03/tu-repo)** | Un jueguito dondé robarás cosas adorables que consigas en tu trabajo | `C#` `Unity` |
+| 🌐 **[MorphoMobile](https://github.com/andreebueno03/tu-repo)** | Un simulador de Anatomía y Patologías diseñado para ayudar a los estudiantes de medicina | `HTML` `CSS` `JavaScript` |
+| 🐍 **[Control de Inventario](https://github.com/andreebueno03/tu-repo)** | Sistema de control de inventarios en el área de la salud | `Python` |
 
-<!-- Reemplaza estos ejemplos por tus proyectos reales. Si aún no tienes, crea uno pequeño: una calculadora, un juego sencillo o tu portafolio. -->
 
 ---
 
@@ -71,6 +70,7 @@ Soy estudiante de programación con ganas de crear cosas que se vean bien y func
 
 ## 🎯 Objetivos de este año
 
+- [x] Aprobar mi tesis universitaria
 - [ ] Terminar mi primer videojuego completo
 - [ ] Publicar mi portafolio web
 - [ ] Contribuir a un proyecto open source
@@ -89,7 +89,7 @@ Soy estudiante de programación con ganas de crear cosas que se vean bien y func
 
 <br/><br/>
 
-<sub>🦦 *Hecho con cariño (y con ayuda de las nutrias)* 🦦</sub>
+<sub>🦦 *Hecho con cariño (mentiris)* 🦦</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=100&section=footer" width="100%"/>
 
