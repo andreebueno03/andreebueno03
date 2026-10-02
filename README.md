@@ -61,7 +61,7 @@ Soy una chica que estudia programación con ganas de crear cosas que se vean bie
 
 <img src="https://streak-stats.demolab.com?user=andreebueno03&hide_border=true&background=0d1117&ring=c77dff&fire=ff9ee5&currStreakLabel=00f5d4&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" height="165" alt="Racha"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreebueno03&bg_color=0d1117&color=c77dff&line=00f5d4&point=ff9ee5&area=true&hide_border=true&area_color=c77dff" width="100%" alt="Gráfico de contribuciones"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreebueno03&bg_color=0d1117&color=c77dff&line=00f5d4&point=ff9ee5&area=true&hide_border=true&area_color=c77dff" width="100%" alt="Gráfico de contribuciones"/> -->
 
 </div>
 
