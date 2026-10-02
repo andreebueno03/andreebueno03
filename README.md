@@ -17,9 +17,9 @@
 
 ## 👩‍💻 About me
 
-<img align="right" src="avatar.png" width="150" alt="Andreeby"/>
+<img align="right" src="avatar.png" width="250" alt="Andreeby"/>
 
-I'm a young woman studying programming who wants to create things that look good and work even better. I move between **web design and development** and **game creation**, and I'm drawn to projects that make me think hard (yes, the ones that give me a little headache 😅).
+I'm just a girl studying programming who wants to create things that look good and work even better. I move between **web design and development** and **game creation**, and I'm drawn to projects that make me think hard (yeah, the ones that give me a little headache 😅).
 
 - 🔭 **Currently learning:** Python, JavaScript and C#
 - 🌱 **Interested in:** web design, game development and solving tricky problems
@@ -46,7 +46,7 @@ I'm a young woman studying programming who wants to create things that look good
 | Project | Description | Tech |
 |:--|:--|:--|
 | 🎮 **[Cutie's Finder](https://github.com/andreebueno03/tu-repo)** | A little game where you steal the adorable things you come across at your job | `C#` `Unity` |
-| 🌐 **[MorphoMobile](https://github.com/andreebueno03/tu-repo)** | An Anatomy and Pathology simulator designed to help medical students | `HTML` `CSS` `JavaScript` |
+| 🌐 **[MorphoMobile](https://github.com/andreebueno03/tu-repo)** | An Anatomy and Pathology simulator in spanish designed to help medical students | `HTML` `CSS` `JavaScript` |
 | 🐍 **[Inventory Control](https://github.com/andreebueno03/tu-repo)** | Inventory control system for the healthcare field | `Python` |
 
 
