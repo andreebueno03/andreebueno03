@@ -1,56 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=200&section=header&text=Hola,%20soy%20Andree&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Bienvenid@%20a%20mi%20rincón%20del%20internet%20✨&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,100:00f5d4&height=190&section=header&text=Andree&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Desarrolladora%20en%20formación%20%C2%B7%20Web%20%26%20Videojuegos&descSize=17&descAlignY=62" width="100%"/>
 
-<!-- Sube la imagen de tu nutria al repo con el nombre avatar.png y se verá aquí -->
-<img src="avatar.png" width="140" alt="Andreeby"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Aprendiendo+Python%2C+JavaScript+y+C%23;Me+gusta+el+dise%C3%B1o+web+y+crear+videojuegos;Convierto+retos+en+proyectos+%F0%9F%A6%A6" alt="Typing SVG" />
+</a>
 
-</div>
+<br/>
 
----
-
-### 🌸 Sobre mí
-
-- 🔭 Actualmente estoy aprendiendo **[Python, JavaScript y C#]**
-- 🌱 Me interesa **[El diseño web, creación de videojuegos, y cualquier cosa que me genere una jaqueca.]**
-- 🎮 Fuera del código me gusta **[Leer y dormir jaja.]**
-- ⚡ Dato curioso: **[Creo que se nota que me gustan las nutrias.]**
-
----
-
-### 🛠️ Mi stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-c77dff?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ff9ee5?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00f5d4?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-9b5de5?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f15bb5?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<!-- Deja solo las tecnologías que de verdad uses o estés aprendiendo -->
-
----
-
-### 📊 Mis stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=andreebueno03&show_icons=true&theme=synthwave&hide_border=true" height="150"/>
+<img src="https://komarev.com/ghpvc/?username=andreebueno03&label=Visitas&color=c77dff&style=flat-square" alt="Visitas"/>
+<img src="https://img.shields.io/github/followers/andreebueno03?label=Seguidores&style=flat-square&color=00f5d4&labelColor=0d1117" alt="Seguidores"/>
 
 </div>
 
 ---
 
-### 📫 Contáctame
+## 👩‍💻 Sobre mí
+
+<img align="right" src="avatar.png" width="150" alt="Andreeby"/>
+
+Soy estudiante de programación con ganas de crear cosas que se vean bien y funcionen mejor. Me muevo entre el **desarrollo web** y la **creación de videojuegos**, y me atraen los proyectos que me obligan a pensar de verdad (sí, esos que dan un poquito de jaqueca 😅).
+
+- 🔭 **Aprendiendo ahora:** Python, JavaScript y C#
+- 🌱 **Me interesa:** diseño web, desarrollo de videojuegos y resolver problemas complicados
+- 📚 **Fuera del código:** leer y dormir (sí, en ese orden de prioridad)
+- 🦦 **Dato curioso:** creo que se nota que me encantan las nutrias
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Stack y herramientas
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00f5d4?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/andreeby)
-[![Email](https://img.shields.io/badge/Email-ff9ee5?style=for-the-badge&logo=gmail&logoColor=black)](mailto:[andreeby44@gmail.com])
+<img src="https://skillicons.dev/icons?i=python,js,cs,html,css,git,github,vscode&theme=dark" alt="Tecnologías"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=100&section=footer" width="100%"/>
+</div>
+
+> 💡 Añade o quita iconos cambiando la lista en la URL (`i=python,js,...`). Catálogo completo en [skillicons.dev](https://skillicons.dev).
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|:--|:--|:--|
+| 🎮 **[Nombre del proyecto](https://github.com/andreebueno03/tu-repo)** | Una frase sobre qué hace y por qué es interesante | `C#` `Unity` |
+| 🌐 **[Nombre del proyecto](https://github.com/andreebueno03/tu-repo)** | Una frase sobre qué hace y por qué es interesante | `HTML` `CSS` `JavaScript` |
+| 🐍 **[Nombre del proyecto](https://github.com/andreebueno03/tu-repo)** | Una frase sobre qué hace y por qué es interesante | `Python` |
+
+<!-- Reemplaza estos ejemplos por tus proyectos reales. Si aún no tienes, crea uno pequeño: una calculadora, un juego sencillo o tu portafolio. -->
+
+---
+
+## 📊 Actividad en GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=andreebueno03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=00f5d4&text_color=c9d1d9&ring_color=c77dff&count_private=true" height="165" alt="Estadísticas"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreebueno03&layout=compact&hide_border=true&bg_color=0d1117&title_color=c77dff&text_color=c9d1d9&langs_count=6" height="165" alt="Lenguajes más usados"/>
+
+<img src="https://streak-stats.demolab.com?user=andreebueno03&hide_border=true&background=0d1117&ring=c77dff&fire=ff9ee5&currStreakLabel=00f5d4&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" height="165" alt="Racha"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreebueno03&bg_color=0d1117&color=c77dff&line=00f5d4&point=ff9ee5&area=true&hide_border=true&area_color=c77dff" width="100%" alt="Gráfico de contribuciones"/>
+
+</div>
+
+---
+
+## 🎯 Objetivos de este año
+
+- [x] Aprobar mi tesis universitaria
+- [ ] Terminar mi primer videojuego completo
+- [ ] Publicar mi portafolio web
+- [ ] Contribuir a un proyecto open source
+- [ ] Dominar los fundamentos de JavaScript y C#
+
+<!-- Marca con [x] lo que vayas completando, ¡se ve genial ver el progreso! -->
+
+---
+
+## 📫 Hablemos
+
+<div align="center">
+
+<a href="https://linkedin.com/in/andreeby"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5d4" alt="LinkedIn"/></a>
+<a href="mailto:andreeby44@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff9ee5" alt="Email"/></a>
+
+<br/><br/>
+
+<sub>🦦 *Hecho con cariño (y con ayuda de las nutrias)* 🦦</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,100:00f5d4&height=100&section=footer" width="100%"/>
 
 </div>
