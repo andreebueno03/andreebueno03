@@ -88,7 +88,7 @@ I'm just a girl studying programming who wants to create things that look good a
 
 <br/><br/>
 
-<sub>🦦 *Made with love (jk)* 🦦</sub>
+<sub>🦦 *Made with hate (jk)* 🦦</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=100&section=footer" width="100%"/>
 
