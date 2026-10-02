@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=200&section=header&text=Hola,%20soy%20Andree&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20bienvenid@%20a%20mi%20rincón%20del%20internet%20✨&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=200&section=header&text=Hola,%20soy%20Andree&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Bienvenid@%20a%20mi%20rincón%20del%20internet%20✨&descSize=18&descAlignY=60" width="100%"/>
 
 <!-- Sube la imagen de tu nutria al repo con el nombre avatar.png y se verá aquí -->
-<img src="avatar.png" width="140" alt="Mi nutria con hoodie"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C77DFF&center=true&vCenter=true&width=480&lines=Aprendiendo+a+programar+💻;Nutria+en+modo+hoodie+🦦;Creando+cosas+lindas+y+futuristas+✨" alt="Typing SVG"/>
+<img src="avatar.png" width="140" alt="Andreeby"/>
 
 </div>
 
@@ -13,11 +11,10 @@
 
 ### 🌸 Sobre mí
 
-- 🔭 Actualmente estoy aprendiendo **[lo que estés aprendiendo: Python, web, etc.]**
-- 🌱 Me interesa **[tus intereses: IA, diseño, videojuegos, etc.]**
-- 🎮 Fuera del código me gusta **[tus hobbies]**
-- 💬 Pregúntame sobre **[algo que sepas, o "mi viaje aprendiendo a programar"]**
-- ⚡ Dato curioso: **[algo divertido sobre ti]**
+- 🔭 Actualmente estoy aprendiendo **[Python, JavaScript y C#]**
+- 🌱 Me interesa **[El diseño web, creación de videojuegos, y cualquier cosa que me genere una jaqueca.]**
+- 🎮 Fuera del código me gusta **[Leer y dormir jaja.]**
+- ⚡ Dato curioso: **[Creo que se nota que me gustan las nutrias.]**
 
 ---
 
@@ -51,8 +48,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00f5d4?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/[tu-usuario])
-[![Email](https://img.shields.io/badge/Email-ff9ee5?style=for-the-badge&logo=gmail&logoColor=black)](mailto:[tu-correo])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00f5d4?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/andreeby)
+[![Email](https://img.shields.io/badge/Email-ff9ee5?style=for-the-badge&logo=gmail&logoColor=black)](mailto:[andreeby44@gmail.com])
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ee5,50:c77dff,100:00f5d4&height=100&section=footer" width="100%"/>
 
