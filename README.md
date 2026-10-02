@@ -46,7 +46,7 @@ I'm just a girl studying programming who wants to create things that look good a
 | Project | Description | Tech |
 |:--|:--|:--|
 | 🎮 **[Cutie's Finder](https://github.com/andreebueno03/tu-repo)** | A little game where you steal the adorable things you come across at your job | `C#` `Unity` |
-| 🌐 **[MorphoMobile](https://github.com/andreebueno03/tu-repo)** | An Anatomy and Pathology simulator in spanish designed to help medical students | `HTML` `CSS` `JavaScript` |
+| 🌐 **[MorphoMobile](https://andreeby.itch.io/morphomobile)** | An Anatomy and Pathology simulator in spanish designed to help medical students | `HTML` `CSS` `JavaScript` |
 | 🐍 **[Inventory Control](https://github.com/andreebueno03/tu-repo)** | Inventory control system for the healthcare field | `Python` |
 
 
